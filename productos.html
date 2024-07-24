@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Equilibrio</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <!--Header-->
+    <header>
+        <a href="index.html">
+            <img class="logo" src="img/logo/logo.jpg" alt="Logo">
+        </a>
+        <button id="abrir" class="abrir-menu"><i class="bi bi-list"></i></button>
+        <nav class="nav" id="nav">
+            <button class="cerrar-menu" id="cerrar"><i class="bi bi-x"></i></button>
+            <ul class="nav-list">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="productos.html">Productos</a></li>
+                <li><a href="galeria.html">Galeria de Videos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- Fin Header-->
+    <header class="header-mobile">
+        <button class="open-menu" id="open-menu">
+            <i class="bi bi-list"></i>
+        </button>
+    </header>
+    <div class="wrapperproductos">
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Todos los productos</button>
+                    </li>
+                    <li>
+                        <button id="CartucherasNeceser" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Cartucheras/Neceser</button>
+                    </li>
+                    <li>
+                        <button id="Mochilas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Mochilas</button>
+                    </li>
+                    <li>
+                        <button id="bolsosmateros" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Bolso Matero</button>
+                    </li>
+                    <li>
+                        <button id="Luncheras" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Luncheras</button>
+                    </li>
+                    <li>
+                        <button id="CarterasBolsos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Carteras/Bolsos</button>
+                    </li>
+                    <li>
+                        <button id="portacelulares" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Porta Celulares</button>
+                    </li>
+                    <li>
+                        <button id="Portanotebook" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Porta Notebook</button>
+                    </li>
+                    <li>
+                        <button id="Fundas Varias" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Fundas Varias</button>
+                    </li>
+                    <li>
+                        <button id="Organizadores" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Organizadores</button>
+                    </li>
+                    <li>
+                        <button id="Botinero" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Botinero</button>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2024 Mi Equilibrio</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+                <!-- Esto se va a rellenar con JS -->
+            </div>
+        </main>
+    </div>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/menu.js"></script>
+    <script src="./js/shop.js"></script>
+    <script src="./js/menugeneral.js"></script>
+</body>
+</html>
