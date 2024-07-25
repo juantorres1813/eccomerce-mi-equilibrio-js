@@ -3,7 +3,7 @@
         "id": "bolso-matero-con-lona",
         "titulo": "Bolsos Materos con Lona",
         "imagen": "./img/productos/producto1.jpg",
-        "imagen2": "./img/productos/producto1.jpg",
+        "video": "./videos/video3.mp4",
         "categoria": {
             "nombre": "Bolso Matero",
             "id": "bolsosmateros"
@@ -267,7 +267,6 @@
         "id": "Bolso Cochecito de Bebé",
         "titulo": "Bolso Cochecito de Bebé",
         "imagen": "./img/productos/producto25.jpg",
-        "imagen2": "./img/productos/producto25.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -333,7 +332,6 @@
         "id": "Muvon",
         "titulo": "Muvon",
         "imagen": "./img/productos/producto31.jpg",
-        "imagen2": "./img/productos/producto31.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -377,7 +375,6 @@
         "id": "Cartuchera Paula",
         "titulo": "Cartuchera Paula",
         "imagen": "./img/productos/producto35.jpg",
-        "imagen2": "./img/productos/producto35.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -388,7 +385,6 @@
         "id": "Sube y Baja",
         "titulo": "Sube y Baja",
         "imagen": "./img/productos/producto36.jpg",
-        "imagen2": "./img/productos/producto36.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -619,7 +615,6 @@
         "id": "Neceser Ari para Pileta",
         "titulo": "Neceser Ari para Pileta",
         "imagen": "./img/productos/producto57.jpg",
-        "imagen2": "./img/productos/producto57.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -653,6 +648,7 @@
         "titulo": "Mochila/Matera Sandy",
         "imagen": "./img/productos/producto60.jpg",
         "imagen2": "./img/imagen2/img60.jpg",
+        "video": "./videos/video2.mp4",
         "categoria": {
             "nombre": "Mochilas",
             "id": "Mochilas"
@@ -763,6 +759,7 @@
         "titulo": "Bolso Profe",
         "imagen": "./img/productos/producto70.jpg",
         "imagen2": "./img/imagen2/img70.jpg",
+        "video": "./videos/video4.mp4",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -784,7 +781,6 @@
         "id": "Porta Celular Billetera",
         "titulo": "Porta Celular Billetera",
         "imagen": "./img/productos/producto72.jpg",
-        "imagen2": "./img/productos/producto72.jpg",
         "categoria": {
             "nombre": "Porta Celulares",
             "id": "portacelulares"
@@ -795,7 +791,6 @@
         "id": "Bolso Puffer",
         "titulo": "Bolso Puffer",
         "imagen": "./img/productos/producto73.jpg",
-        "imagen2": "./img/productos/producto73.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -817,7 +812,6 @@
         "id": "Bolso Puffer Solare",
         "titulo": "Bolso Puffer Solare",
         "imagen": "./img/productos/producto75.jpg",
-        "imagen2": "./img/productos/producto75.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -828,7 +822,6 @@
         "id": "Bolso Puffer con cierre XL",
         "titulo": "Bolso Puffer con cierre XL",
         "imagen": "./img/productos/producto76.jpg",
-        "imagen2": "./img/productos/producto76.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -839,7 +832,6 @@
         "id": "Mochi Male",
         "titulo": "Mochi Male",
         "imagen": "./img/productos/producto77.jpg",
-        "imagen2": "./img/productos/producto77.jpg",
         "categoria": {
             "nombre": "Mochilas",
             "id": "Mochilas"
@@ -861,7 +853,6 @@
         "id": "Bolso Notebook Puffer",
         "titulo": "Bolso Notebook Puffer",
         "imagen": "./img/productos/producto79.jpg",
-        "imagen2": "./img/productos/producto79.jpg",
         "categoria": {
             "nombre": "Porta Notebook",
             "id": "Portanotebook"
@@ -883,7 +874,6 @@
         "id": "Bolso Puffer con cierre",
         "titulo": "Bolso Puffer con cierre",
         "imagen": "./img/productos/producto81.jpg",
-        "imagen2": "./img/productos/producto81.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -927,7 +917,6 @@
         "id": "Cartu Box Chica",
         "titulo": "Cartu Box Chica",
         "imagen": "./img/productos/producto85.jpg",
-        "imagen2": "./img/productos/producto85.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -938,7 +927,6 @@
         "id": "Cartu Doc",
         "titulo": "Cartu Doc",
         "imagen": "./img/productos/producto86.jpg",
-        "imagen2": "./img/productos/producto86.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -960,7 +948,6 @@
         "id": "Cartu Agustina",
         "titulo": "Cartu Agustina",
         "imagen": "./img/productos/producto88.jpg",
-        "imagen2": "./img/productos/producto88.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -971,7 +958,6 @@
         "id": "Cartu Milar",
         "titulo": "Cartu Milar",
         "imagen": "./img/productos/producto89.jpg",
-        "imagen2": "./img/productos/producto89.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -982,7 +968,6 @@
         "id": "Bolso de viaje Meca",
         "titulo": "Bolso de viaje Meca",
         "imagen": "./img/productos/producto90.jpg",
-        "imagen2": "./img/productos/producto90.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -1004,7 +989,6 @@
         "id": "Porta Llaves",
         "titulo": "Porta Llaves",
         "imagen": "./img/productos/producto92.jpg",
-        "imagen2": "./img/productos/producto92.jpg",
         "categoria": {
             "nombre": "Fundas Varias",
             "id": "Fundas Varias"
@@ -1048,7 +1032,6 @@
         "id": "Lunchera Familiar",
         "titulo": "Lunchera Familiar",
         "imagen": "./img/productos/producto96.jpg",
-        "imagen2": "./img/productos/producto96.jpg",
         "categoria": {
             "nombre": "Luncheras",
             "id": "Luncheras"
@@ -1059,7 +1042,6 @@
         "id": "Bolso de Mano Mariposa",
         "titulo": "Bolso de Mano Mariposa",
         "imagen": "./img/productos/producto97.jpg",
-        "imagen2": "./img/productos/producto97.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -1081,7 +1063,6 @@
         "id": "Mochi Cruzada Unisex",
         "titulo": "Mochi Cruzada Unisex",
         "imagen": "./img/productos/producto99.jpg",
-        "imagen2": "./img/productos/producto99.jpg",
         "categoria": {
             "nombre": "Mochilas",
             "id": "Mochilas"
@@ -1092,7 +1073,6 @@
         "id": "Riñonera Nairobi",
         "titulo": "Riñonera Nairobi",
         "imagen": "./img/productos/producto100.jpg",
-        "imagen2": "./img/productos/producto100.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -1103,7 +1083,6 @@
         "id": "Riño-Cartera",
         "titulo": "Riño-Cartera",
         "imagen": "./img/productos/producto101.jpg",
-        "imagen2": "./img/productos/producto101.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -1114,7 +1093,6 @@
         "id": "Bolso Playero XL",
         "titulo": "Bolso Playero XL",
         "imagen": "./img/productos/producto102.jpg",
-        "imagen2": "./img/productos/producto102.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -1125,7 +1103,6 @@
         "id": "Porta Botellas con Correa",
         "titulo": "Porta Botellas con Correa",
         "imagen": "./img/productos/producto103.jpg",
-        "imagen2": "./img/productos/producto103.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -1136,7 +1113,6 @@
         "id": "Bolso Playero",
         "titulo": "Bolso Playero",
         "imagen": "./img/productos/producto104.jpg",
-        "imagen2": "./img/productos/producto104.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -1147,7 +1123,6 @@
         "id": "Porta Lentes",
         "titulo": "Porta Lentes",
         "imagen": "./img/productos/producto105.jpg",
-        "imagen2": "./img/productos/producto105.jpg",
         "categoria": {
             "nombre": "Fundas Varias",
             "id": "Fundas Varias"
@@ -1158,7 +1133,6 @@
         "id": "Sobre de Mano",
         "titulo": "Sobre de Mano",
         "imagen": "./img/productos/producto106.jpg",
-        "imagen2": "./img/productos/producto106.jpg",
         "categoria": {
             "nombre": "Fundas Varias",
             "id": "Fundas Varias"
@@ -1169,7 +1143,6 @@
         "id": "Porta Lentes Sobre",
         "titulo": "Porta Lentes Sobre",
         "imagen": "./img/productos/producto107.jpg",
-        "imagen2": "./img/productos/producto107.jpg",
         "categoria": {
             "nombre": "Fundas Varias",
             "id": "Fundas Varias"
@@ -1224,7 +1197,6 @@
         "id": "Porta Celular-Billetes",
         "titulo": "Porta Celular-Billetes",
         "imagen": "./img/productos/producto112.jpg",
-        "imagen2": "./img/productos/producto112.jpg",
         "categoria": {
             "nombre": "Porta Celulares",
             "id": "portacelulares"
@@ -1235,7 +1207,6 @@
         "id": "Cartu",
         "titulo": "Cartu",
         "imagen": "./img/productos/producto113.jpg",
-        "imagen2": "./img/productos/producto113.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -1246,7 +1217,6 @@
         "id": "Porta Cosméticos 2",
         "titulo": "Porta Cosméticos 2",
         "imagen": "./img/productos/producto114.jpg",
-        "imagen2": "./img/productos/producto114.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -1268,7 +1238,6 @@
         "id": "Mini Porta Cosméticos",
         "titulo": "Mini Porta Cosméticos",
         "imagen": "./img/productos/producto116.jpg",
-        "imagen2": "./img/productos/producto116.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -1280,6 +1249,7 @@
         "titulo": "Bolsa Reutilizable",
         "imagen": "./img/productos/producto117.jpg",
         "imagen2": "./img/imagen2/img117.jpg",
+        "video": "./videos/video1.mp4",
         "categoria": {
             "nombre": "Carteras/Bolsos",
             "id": "CarterasBolsos"
@@ -1290,7 +1260,6 @@
         "id": "Neceser Cartu Puffer",
         "titulo": "Neceser Cartu Puffer",
         "imagen": "./img/productos/producto118.jpg",
-        "imagen2": "./img/productos/producto118.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -1301,7 +1270,6 @@
         "id": "Porta Bolsillo",
         "titulo": "Porta Bolsillo",
         "imagen": "./img/productos/producto119.jpg",
-        "imagen2": "./img/productos/producto119.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"
@@ -1312,7 +1280,6 @@
         "id": "Neceser de Nylon Cristal con Brillo",
         "titulo": "Neceser de Nylon Cristal con Brillo",
         "imagen": "./img/productos/producto120.jpg",
-        "imagen2": "./img/productos/producto120.jpg",
         "categoria": {
             "nombre": "Cartucheras/Neceser",
             "id": "CartucherasNeceser"

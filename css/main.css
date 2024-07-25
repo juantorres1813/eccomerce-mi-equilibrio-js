@@ -6,18 +6,19 @@
     --clr-white: #04F3AC;
     --clr-gray: #e2e2e2;
     --clr-red: #961818;
+    --clr-variacion-rosa: #f9008142;
+    --clr-variacion-rosa-2: #f177a7;
 }
 
 
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     font-family: 'Rubik', sans-serif;
 }
 
 body{
-    background-color: var(--clr-white);
+    background-color: var(--clr-variacion-rosa-2);
 }
 
 h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul {
@@ -98,7 +99,7 @@ header img{
 .wrapperproductos {
     display: grid;
     grid-template-columns: 1fr 4fr;
-    background-color: var(--clr-main);
+    background-color: var(--clr-variacion-rosa-2);
 }
 
 .swiper-wrapper1 {
@@ -154,6 +155,7 @@ header img{
     font-size: 28px;
     text-align: center;
     margin: 40px;
+    color: var(--clr-variacion-rosa-2);
 }
 
 .swiper2wrapper {
@@ -189,6 +191,7 @@ header img{
     color: black;
     padding: 10px;
     text-decoration: none;
+    color: var(--clr-variacion-rosa-2);
 
 }
 
@@ -313,7 +316,7 @@ aside {
 }
 
 .boton-menu.active {
-    background-color: var(--clr-white);
+    background-color: #fff;
     color: black;
     border-top-left-radius: 1rem;
     border-bottom-left-radius: 1rem;
@@ -329,7 +332,7 @@ aside {
     right: 0;
     background-color: transparent;
     border-bottom-right-radius: .5rem;
-    box-shadow: 0 1rem 0 var(--clr-white);
+    box-shadow: 0 1rem 0 #fff;
 }
 
 .boton-menu.active::after {
@@ -341,7 +344,7 @@ aside {
     right: 0;
     background-color: transparent;
     border-top-right-radius: .5rem;
-    box-shadow: 0 -1rem 0 var(--clr-white);
+    box-shadow: 0 -1rem 0 #fff;
 }
 
 .boton-menu > i.bi-hand-index-thumb-fill,
@@ -372,7 +375,7 @@ aside {
 }
 
 main {
-    background-color: var(--clr-white);
+    background-color: #fff;
     margin: 1rem;
     margin-left: 0;
     border-radius: 2rem;
@@ -402,8 +405,17 @@ main {
     border-radius: 1rem;
 }
 
+.small-imgs.solo-imagen1 {
+    width: 500px;
+    height: 350px;
+}
+
+.video-container {
+    margin-top: 50px;
+}
+
 .producto-detalles {
-    background-color: var(--clr-main);
+    background-color: var(--clr-variacion-rosa-2);
     color: black;
     padding: .5rem;
     border-radius: 1rem;
@@ -423,13 +435,13 @@ main {
 .producto-agregar {
     text-decoration: none;
     border: 0;
-    background-color: var(--clr-white);
+    background-color: var(--clr-variacion-rosa);
     color: black;
     padding: .2rem;
     text-transform: uppercase;
     border-radius: 2rem;
     cursor: pointer;
-    border: 2px solid var(--clr-white);
+    border: 2px solid var(--clr-variacion-rosa);
     transition: background-color .2s, color .2s;
     
 }
@@ -441,13 +453,63 @@ main {
 
 /** RSS **/
 
+.footer {
+    background: rgba(0, 0, 0, 0.01);
+}
+
+.grupofooter2 {
+    background: rgba(0, 0, 0, 0.11);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 10px;
+}
+
+.grupofooter1 {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footerTexto {
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+
+.logofooter {
+    width: 250px;
+    height: 150px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.rss {
+    img {
+        width: 100px;
+        height: 100px;
+        padding: 10px;
+    }
+}
+
+
+.footer-general {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 .rss{
     text-align: center;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin-top: 40px;
-    background-color: rgba(0, 0, 0, .3);
+    margin-top: 20px;
     padding: 20px;
 }
 
@@ -483,8 +545,7 @@ main {
 
 .texto-rss p {
     text-align: left;
-    font-size: 18px;
-
+    font-size: 23px;
 }
 
 
@@ -599,6 +660,16 @@ main {
 }
 
 /*** MEDIA QUERIES ***/
+
+@media screen and (max-width: 1050px) {
+    .producto-titulo {
+        font-size: 11px;
+    }
+
+    .producto-titulo {
+        font-size: 11px;
+    }
+}
 
 @media screen and (max-width: 1050px) {
     .product-box {
@@ -738,6 +809,11 @@ main {
     .contenedor-productos {
         grid-template-columns: 1fr 1fr;
     }
+
+    .logofooter {
+        width: 200px;
+        height: 150px;
+    }
 }
 
 @media screen and (max-width: 600px) {    
@@ -825,6 +901,16 @@ main {
         right: 1rem;
     }
 
+    .wrapperproductos{
+        grid-template-columns: 1fr;
+    }
+
+    .footer {
+        flex-direction: column;
+    }
+    .grupofooter1 {
+        flex-direction: column;
+    }
 }
 
 @media screen and (max-width: 546px){
