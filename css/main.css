@@ -241,8 +241,8 @@ header img{
     color: black;
     padding: 10px;
     text-decoration: none;
-    color: var(--clr-variacion-rosa-2);
-
+    color: #fff;
+    margin-bottom: 10px;
 }
 
 .swiper-slide2 img {
@@ -258,6 +258,10 @@ header img{
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 5px;
+    gap: 10px;
+    border: 1px solid var(--clr-variacion-rosa-2);
+    background-color: var(--clr-variacion-rosa-2);
 }
 
 .container {
