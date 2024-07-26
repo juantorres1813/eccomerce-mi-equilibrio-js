@@ -63,6 +63,15 @@ document.addEventListener('DOMContentLoaded', function() {
                     `;
                     detalleProducto.appendChild(videoContainer);
                 }
+
+                if (producto.video2) {
+                    const videoContainer = document.createElement('div');
+                    videoContainer.classList.add('video-container');
+                    videoContainer.innerHTML = `
+                        <iframe width="90%" height="700px" controls="" src="${producto.video2}" frameborder="0" allowfullscreen></iframe>
+                    `;
+                    detalleProducto.appendChild(videoContainer);
+                }
             } else {
             }
         })

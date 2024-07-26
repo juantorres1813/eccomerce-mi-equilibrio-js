@@ -4,6 +4,7 @@
         "titulo": "Bolsos Materos con Lona",
         "imagen": "./img/productos/producto1.jpg",
         "video": "./videos/video3.mp4",
+        "video2": "./videos/video5.mp4",
         "categoria": {
             "nombre": "Bolso Matero",
             "id": "bolsosmateros"
