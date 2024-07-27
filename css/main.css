@@ -611,10 +611,11 @@ main {
 
 .contenedorvideos h3{
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
     margin: 30px;
-    font-family: 'Roboto Slab';
-    font-weight: 400;
+    font-family: 'Rubik';
+    font-weight: 800;
+    color: var(--clr-variacion-rosa-2);
 }
 
 .contenedorvideos {
@@ -855,7 +856,7 @@ main {
         position: absolute;
         top: 0;
         right: 0;
-        bottom: 70%;
+        bottom: 50%;
         background-color: #1c1c1c;
         padding: 2rem;
         box-shadow: 0 0 0 100vmax rgba(0, 0, 0, .5);
@@ -1120,5 +1121,19 @@ main {
 
     .featured-products-heading {
         font-size: 13px;
+    }
+
+    .contenedorvideos h3 {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 289px) {
+    .contenedorvideos h3 {
+        font-size: 20px;
+    }
+
+    .nav-list li a {
+        font-size: 20px;
     }
 }
