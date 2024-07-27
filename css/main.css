@@ -100,6 +100,7 @@ header img{
     margin-left: 30px;
     gap: 30px;
     margin-right: 10px;
+    user-select: none;
 }
 
 .home-left h1 {
@@ -807,6 +808,10 @@ main {
         width: 350px;
         height: 400px
     }
+
+    .home-left h1 {
+        margin-top: 30px;
+    }
 }
 
 @media screen and (max-width: 980px) {
@@ -1070,5 +1075,50 @@ main {
 
     .main-images{
         max-width: 300px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .home-left h1{
+        font-size: 1.5rem;
+    }
+
+    .home-left p {
+        font-size: 1rem;
+    }
+
+    .btn-home {
+        font-size: 0.8rem;
+    }
+
+    .home-foto {
+        width: 70%;;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .logo {
+        width: 60%;
+    }
+    
+    .home-left h1{
+        font-size: 0.8rem;
+    }
+
+    .home-left p {
+        font-size: 0.6rem;
+    }
+
+    .btn-home {
+        font-size: 0.6rem;
+        padding: 10px;
+    }
+
+    .home-foto {
+        width: 70%;;
+    }
+
+    .featured-products-heading {
+        font-size: 13px;
     }
 }
