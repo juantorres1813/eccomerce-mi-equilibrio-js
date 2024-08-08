@@ -1286,5 +1286,16 @@
             "id": "CartucherasNeceser"
         },
         "precio": 1000
+    },
+    {
+        "id": "Mochila Matera Camuflada",
+        "titulo": "Mochila Matera Camuflada",
+        "imagen": "./img/productos/producto121.jpg",
+        "imagen2": "./img/imagen2/img121.jpg",
+        "categoria": {
+            "nombre": "Bolso Matero",
+            "id": "bolsosmateros"
+        },
+        "precio": 1000
     }
 ]
