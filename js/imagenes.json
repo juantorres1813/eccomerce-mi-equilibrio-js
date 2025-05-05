@@ -1,0 +1,104 @@
+[
+    {
+        "categoria": "Billeteras",
+        "imagenes": [
+            {
+                "src": "./img/imagenes/imagen1.jpg"
+            }
+        ]
+    },
+    {
+        "categoria": "Carteras/Bolsos",
+        "imagenes": [
+            {
+                "src": "./img/imagenes/imagen2.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen3.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen4.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen5.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen6.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen7.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen8.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen9.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen10.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen11.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen12.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen13.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen14.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen15.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen16.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen17.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen18.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen19.jpg"
+            }
+        ]
+    },
+    {
+        "categoria": "Cartucheras/Neceser",
+        "imagenes": [
+            {
+                "src": "./img/imagenes/imagen20.jpg"
+            },
+            {
+                "src": "./img/imagenes/imagen21.jpg"
+            }
+        ]
+    },
+    {
+        "categoria": "Luncheras",
+        "imagenes": [
+            {
+                "src": "./img/imagenes/imagen22.jpg"
+            }
+        ]
+    },
+    {
+        "categoria": "Organizadores",
+        "imagenes": [
+            {
+                "src": "./img/imagenes/imagen23.jpg"
+            }
+        ]
+    },
+    {
+        "categoria": "Valijitas de Arte",
+        "imagenes": [
+            {
+                "src": "./img/imagenes/imagen24.jpg"
+            }
+        ]
+    }
+]

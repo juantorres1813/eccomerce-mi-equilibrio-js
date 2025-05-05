@@ -1111,8 +1111,8 @@
         "precio": 1000
     },
     {
-        "id": "Bolso Playero",
-        "titulo": "Bolso Playero",
+        "id": "Bolso Playero 2",
+        "titulo": "Bolso Playero 2",
         "imagen": "./img/productos/producto104.jpg",
         "categoria": {
             "nombre": "Carteras/Bolsos",
@@ -1144,6 +1144,7 @@
         "id": "Porta Lentes Sobre",
         "titulo": "Porta Lentes Sobre",
         "imagen": "./img/productos/producto107.jpg",
+        "imagen2": "./img/imagen2/img124.jpg",
         "categoria": {
             "nombre": "Fundas Varias",
             "id": "Fundas Varias"
@@ -1295,6 +1296,406 @@
         "categoria": {
             "nombre": "Bolso Matero",
             "id": "bolsosmateros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Porta Llaves 2",
+        "titulo": "Porta Llaves 2",
+        "imagen": "./img/productos/producto122.jpg",
+        "categoria": {
+            "nombre": "Fundas Varias",
+            "id": "Fundas Varias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Porta Tarjetas Llavero 2",
+        "titulo": "Porta Tarjetas Llavero 2",
+        "imagen": "./img/productos/producto123.jpg",
+        "categoria": {
+            "nombre": "Tarjeteros/Llaveros",
+            "id": "Tarjeteros Llaveros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Mini Neceser",
+        "titulo": "Mini Neceser",
+        "imagen": "./img/productos/producto124.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Mini Neceser 2",
+        "titulo": "Mini Neceser 2",
+        "imagen": "./img/productos/producto125.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Tarjetero Llavero",
+        "titulo": "Tarjetero Llavero",
+        "imagen": "./img/productos/producto126.jpg",
+        "categoria": {
+            "nombre": "Tarjeteros/Llaveros",
+            "id": "Tarjeteros Llaveros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Mini Neceser 3",
+        "titulo": "Mini Neceser 3",
+        "imagen": "./img/productos/producto127.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Mini Cartu Cristal",
+        "titulo": "Mini Cartu Cristal",
+        "imagen": "./img/productos/producto128.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Valijita de Arte",
+        "titulo": "Valijita de Arte",
+        "imagen": "./img/productos/producto129.jpg",
+        "imagen2": "./img/imagen2/img122.jpg",
+        "categoria": {
+            "nombre": "Valijitas de Arte",
+            "id": "Valijitas de Arte"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Valijita de Arte 2",
+        "titulo": "Valijita de Arte 2",
+        "imagen": "./img/productos/producto130.jpg",
+        "categoria": {
+            "nombre": "Valijitas de Arte",
+            "id": "Valijitas de Arte"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Billetera Silvana",
+        "titulo": "Billetera Silvana",
+        "imagen": "./img/productos/producto131.jpg",
+        "imagen2": "./img/imagen2/img123.jpg",
+        "categoria": {
+            "nombre": "Billeteras",
+            "id": "Billeteras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Bolso Tejedor",
+        "titulo": "Bolso Tejedor",
+        "imagen": "./img/productos/producto132.jpg",
+        "categoria": {
+            "nombre": "Carteras/Bolsos",
+            "id": "CarterasBolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Bolso Playero 3",
+        "titulo": "Bolso Playero 3",
+        "imagen": "./img/productos/producto133.jpg",
+        "categoria": {
+            "nombre": "Carteras/Bolsos",
+            "id": "CarterasBolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Bolsito Puffer",
+        "titulo": "Bolsito Puffer",
+        "imagen": "./img/productos/producto134.jpg",
+        "categoria": {
+            "nombre": "Carteras/Bolsos",
+            "id": "CarterasBolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Bolso Cristal para Puleta",
+        "titulo": "Bolso Cristal para Puleta",
+        "imagen": "./img/productos/producto135.jpg",
+        "categoria": {
+            "nombre": "Carteras/Bolsos",
+            "id": "CarterasBolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Lunchera Coni XL",
+        "titulo": "Lunchera Coni XL",
+        "imagen": "./img/productos/producto136.jpg",
+        "categoria": {
+            "nombre": "Luncheras",
+            "id": "Luncheras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Lunchera Bolso",
+        "titulo": "Lunchera Bolso",
+        "imagen": "./img/productos/producto137.jpg",
+        "categoria": {
+            "nombre": "Luncheras",
+            "id": "Luncheras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Neceser-Lunchera",
+        "titulo": "Neceser-Lunchera",
+        "imagen": "./img/productos/producto138.jpg",
+        "categoria": {
+            "nombre": "Luncheras",
+            "id": "Luncheras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Bolsillo Playero",
+        "titulo": "Bolsillo Playero",
+        "imagen": "./img/productos/producto139.jpg",
+        "categoria": {
+            "nombre": "Organizadores",
+            "id": "Organizadores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Neceser y Organizador",
+        "titulo": "Neceser y Organizador",
+        "imagen": "./img/productos/producto140.jpg",
+        "categoria": {
+            "nombre": "Organizadores",
+            "id": "Organizadores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Sobre A4",
+        "titulo": "Sobre A4",
+        "imagen": "./img/productos/producto141.jpg",
+        "categoria": {
+            "nombre": "Organizadores",
+            "id": "Organizadores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Estuche Olivia",
+        "titulo": "Estuche Olivia",
+        "imagen": "./img/productos/producto142.jpg",
+        "imagen2": "./img/imagen2/img131.jpg",
+        "categoria": {
+            "nombre": "Organizadores",
+            "id": "Organizadores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Porta Cargador Auricular",
+        "titulo": "Porta Cargador Auricular",
+        "imagen": "./img/productos/producto143.jpg",
+        "categoria": {
+            "nombre": "Fundas Varias",
+            "id": "Fundas Varias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Porta Cargador Celular",
+        "titulo": "Porta Cargador Celular",
+        "imagen": "./img/productos/producto144.jpg",
+        "imagen2": "./img/imagen2/img132.jpg",
+        "categoria": {
+            "nombre": "Fundas Varias",
+            "id": "Fundas Varias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Porta Botellas Minerva",
+        "titulo": "Porta Botellas Minerva",
+        "imagen": "./img/productos/producto145.jpg",
+        "imagen2": "./img/imagen2/img125.jpg",
+        "categoria": {
+            "nombre": "Fundas Varias",
+            "id": "Fundas Varias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Porta Parlante",
+        "titulo": "Porta Parlante",
+        "imagen": "./img/productos/producto146.jpg",
+        "categoria": {
+            "nombre": "Fundas Varias",
+            "id": "Fundas Varias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Cartu Neceser",
+        "titulo": "Cartu Neceser",
+        "imagen": "./img/productos/producto147.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Cartu 2",
+        "titulo": "Cartu 2",
+        "imagen": "./img/productos/producto148.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Cartu Corazon",
+        "titulo": "Cartu Corazon",
+        "imagen": "./img/productos/producto149.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Cartu Uni",
+        "titulo": "Cartu Uni",
+        "imagen": "./img/productos/producto150.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Cartu Peque",
+        "titulo": "Cartu Peque",
+        "imagen": "./img/productos/producto151.jpg",
+        "imagen2": "./img/imagen2/img126.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Cartu Vicky",
+        "titulo": "Cartu Vicky",
+        "imagen": "./img/productos/producto152.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Cartu Honguito",
+        "titulo": "Cartu Honguito",
+        "imagen": "./img/productos/producto153.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Cartu Capi",
+        "titulo": "Cartu Capi",
+        "imagen": "./img/productos/producto154.jpg",
+        "imagen2": "./img/imagen2/img127.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Cartu Honguito XL",
+        "titulo": "Cartu Honguito XL",
+        "imagen": "./img/productos/producto155.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Cartu Paola",
+        "titulo": "Cartu Paola",
+        "imagen": "./img/productos/producto156.jpg",
+        "imagen2": "./img/imagen2/img129.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Cartu Polish",
+        "titulo": "Cartu Polish",
+        "imagen": "./img/productos/producto157.jpg",
+        "imagen2": "./img/imagen2/img128.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Neceser Pequeño",
+        "titulo": "Neceser Pequeño",
+        "imagen": "./img/productos/producto158.jpg",
+        "categoria": {
+            "nombre": "Cartucheras/Neceser",
+            "id": "CartucherasNeceser"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Lunchera Coni",
+        "titulo": "Lunchera Coni",
+        "imagen": "./img/productos/producto159.jpg",
+        "imagen2": "./img/imagen2/img130.jpg",
+        "categoria": {
+            "nombre": "Luncheras",
+            "id": "Luncheras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Mochila Sandy",
+        "titulo": "Mochila Sandy",
+        "imagen": "./img/productos/producto160.jpg",
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "Mochilas"
         },
         "precio": 1000
     }
